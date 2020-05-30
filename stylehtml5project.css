@@ -1,0 +1,30 @@
+body
+{
+    background-color: orange;
+}
+h1
+{
+    font-size:50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2
+{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-size: 18px;
+font-style: italic;
+}
+ul{
+    margin:50px;
+    padding:10px;
+    color: white;
+}
+h1#maintitle
+{
+    color:red;
+    background: black;
+    padding: 10px;
+    text-align: center;
+    }

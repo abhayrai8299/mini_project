@@ -1,0 +1,26 @@
+#positioning
+{
+    background: rgba(131, 138, 132, 0.747);
+}
+#positioning #container
+{
+    background: white;
+    padding: 20px;
+}
+.box
+{
+    background: red;
+    color: beige;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    line-height: 200px;
+    text-transform: uppercase;
+
+}
+#relative
+{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}

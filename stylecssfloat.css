@@ -1,0 +1,56 @@
+body{
+    background: red;
+}
+#abhay1
+{
+    float:left;
+    width: 200px;
+    border: dashed 3px black;
+}
+h1
+{
+    text-align: center;
+}
+#float #container{
+background: white;
+}
+#maincolumn
+{
+    width: 550px;
+    float: left;
+    background:orange;
+    border:dashed 2px black;
+}
+#sidebar
+{
+    width: 600px;
+    float: right;
+    background: blue;
+    border:dashed 2px black;
+}
+.clear
+{
+    clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

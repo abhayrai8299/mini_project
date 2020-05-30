@@ -1,0 +1,22 @@
+#box
+{
+    background: red;
+    height: 200px;
+    width: 200px;
+    margin: 40px auto;
+    padding: 50px;
+    border-radius: 50px;
+}
+@keyframes box
+{
+    from{border-radius: 40px;background-color: red; top: 0;left:0;}
+    to{border-radius: 100px;background-color: orange;top:100px;left:100px;}
+}
+#animation #box
+{
+    animation-name: box;
+    animation-duration: 10s;
+    animation-delay: 2s;
+    animation-iteration-count: 3;
+    animation-direction: alternate;
+}

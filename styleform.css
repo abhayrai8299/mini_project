@@ -1,0 +1,70 @@
+#profile
+{
+    background: orange;
+    padding: 5px;
+    border: solid 2px green;;
+}
+h1{
+    text-align: center;
+}
+#container
+{
+
+    background:lightseagreen;
+}
+form{
+    padding: 40px;
+    
+}
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea
+{
+    padding: 10px;
+    border: solid 2px brown;
+    display: block;
+    width: 50%;
+    font-size: 14px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif
+
+}
+label
+{
+    font-size: 20px;
+    text-transform: uppercase;
+    background: lightcoral;
+    border: solid 2px red;
+    display: block;
+    width: 50%;
+    padding:10px;
+    color: white;
+}
+input[type="submit"]
+{
+    background: none;
+    background: rgb(7, 49, 233);
+    height: 40px;
+    border: solid 1px white;;
+    padding: 0 40px;
+    color: orange;
+}
+input[type="submit"]:hover
+{
+    cursor:pointer;
+    border-color: black;
+}
+input[type="text"]:hover
+{
+    border-color: black;
+}
+input[type="email"]:hover
+{
+    border-color: black;
+}
+input[type="password"]:hover
+{
+    border-color: black;
+}
+
